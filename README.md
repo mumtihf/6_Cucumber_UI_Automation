@@ -1,6 +1,6 @@
 # Cucumber_UI_Automation
 This is an UI Data Driven Test Automation Testing for kasirAja using WDIO Cucumber with Javascript programming language.
-This repository is try to test the UI for kasirAja website (https://kasirdemo.belajarqa.com/) with 1 scenario with 2 test cases (positive and negative)
+This repository is try to test the UI for kasirAja website (https://kasirdemo.belajarqa.com/) with 1 scenario with 2 test cases (positive and negative) with Gherkin Scenario.
 
 ## Installation
 To install module or package
